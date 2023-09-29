@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-montserrat: Montserrat;
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-41xl: 600px;
+  --font-size-mini: 15px;
+  --font-size-base: 16px;
+  --font-size-xs: 12px;
+  --font-size-2xs: 11px;
+  --font-size-smi: 13px;
+  --font-size-lg: 18px;
+  --font-size-lg-7: 18.7px;
+  --font-size-31xl-2: 50.2px;
+  --font-size-56xl-3: 75.3px;
+  --font-size-base-1: 16.1px;
+  --font-size-base-2: 15.2px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gainsboro-100: #dedede;
+  --color-gainsboro-200: #ddd;
+  --color-dimgray: #616161;
+  --color-gray-100: #8d8d8d;
+  --color-gray-200: #1e1e1e;
+  --color-gray-300: #131313;
+  --color-whitesmoke-100: #e9e9e9;
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-xl-5: 20.5px;
+
+  /* Paddings */
+  --padding-smi: 13px;
+  --padding-8xs: 5px;
+  --padding-xs: 12px;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+  --br-9xs: 4px;
+  --br-3xs: 10px;
+  --br-11xl: 30px;
+  --br-15xl: 34px;
+  --br-base-7: 16.7px;
+  --br-xl-2: 20.2px;
+  --br-2xs-8: 10.8px;
+}
